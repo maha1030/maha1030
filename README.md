@@ -43,11 +43,20 @@
 
 ### 🌸 **Stats & Highlights** 🌸
 
-<br/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=maha1030&color=ffb6c1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=maha1030&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=ff69b4&icon_color=ff69b4&text_color=555555" height="150" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maha1030&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=ff69b4&text_color=555555" height="150" alt="Top Languages"/>
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maha1030&theme=rose_pine&background=fff0f5&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=555555&sideNums=555555&currStreakLabel=ff69b4&sideLabels=555555&dates=888888" width="90%" alt="GitHub Streak"/>
+
+</div>
 ---
 
 ### 🎀 **Connect With Me** 🎀
