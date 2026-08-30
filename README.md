@@ -2,7 +2,7 @@
 
 # ✨ Hi there, I'm Maha ✨
 
-*`AI & Machine Learning Developer`*
+*`AI Developer`*
 
 ─── ⋆⋅☆⋅⋆ ───
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🩰 **Languages & Backend** 🩰
+### 🌷 **Languages & Backend** 🌷
 
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/R-FFC0CB?style=for-the-badge&logo=r&logoColor=276DC3)
