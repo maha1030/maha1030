@@ -11,8 +11,8 @@
 ### 🎀 **About Me** 🎀
 
 🌸 **Focus:** *Building AI models, LLM apps & Deep Learning systems*  
-🍦 **Specialty:** *NLP, Transformers, GANs & Generative AI*  
-💖 **Ask Me About:** *Python, PyTorch, LangChain & Model Deployment*  
+🌸 **Specialty:** *NLP, Transformers, GANs & Generative AI*  
+🌸 **Ask Me About:** *Python, PyTorch, LangChain & Model Deployment*  
 💌 **Reach Me At:** *maha.personal1030@gmail.com*  
 
 ---
